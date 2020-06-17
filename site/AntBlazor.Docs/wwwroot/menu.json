@@ -154,6 +154,11 @@
             "url": "components/slider"
           },
           {
+            "title": "Select",
+            "type": "menuItem",
+            "url": "components/select"
+          },
+          {
             "title": "Transfer",
             "type": "menuItem",
             "url": "components/transfer"
@@ -180,6 +185,11 @@
             "url": "components/carousel"
           },
           {
+            "title": "Collapse",
+            "type": "menuItem",
+            "url": "components/collapse"
+          },
+          {
             "title": "Card",
             "type": "menuItem",
             "url": "components/card"
@@ -188,6 +198,11 @@
             "title": "Calendar",
             "type": "menuItem",
             "url": "components/calendar"
+          },
+          {
+            "title": "Descriptions",
+            "type": "menuItem",
+            "url": "components/descriptions"
           },
           {
             "title": "Empty",

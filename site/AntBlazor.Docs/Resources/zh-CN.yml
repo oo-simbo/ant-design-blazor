@@ -27,6 +27,7 @@ Badge: 徽标数
 Card: 卡片
 Calendar: 日历
 Empty: 空状态
+Descriptions: 描述列表
 List: 列表
 Tooltip: 文字提示
 Tag: 标签
@@ -45,6 +46,7 @@ Spin: 加载中
 Space: 间距
 Slider: 滑动输入条
 Carousel: 走马灯
+Collapse: 折叠面板
 Message: 全局提示
 Pagination: 分页
 Progress: 进度条
@@ -52,3 +54,4 @@ Transfer: 穿梭框
 Modal: 对话框
 Statistic: 统计数值
 Rate: 评分
+Select: 选择器
